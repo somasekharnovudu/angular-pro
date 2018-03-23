@@ -1,0 +1,22 @@
+.headerpart{
+    background: #ccc;
+    height: 60px;
+   overflow: hidden;
+}
+.logopart{
+    height:60px;
+    width:60px !important;
+    width:auto;
+    overflow: hidden;
+    border-radius: 5px
+}
+.logopart img{
+    height:100%;
+    width:100%;
+}
+.scopart{
+    height:60px;
+}
+.scopart ul li a{
+    vertical-align: middle
+}
